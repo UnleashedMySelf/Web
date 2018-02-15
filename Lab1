@@ -9,8 +9,8 @@
   2. Задаем свойство float со значением left для класса .rows. Так мы установим позиционирование трёх блоков в один ряд. Заметим, что
 родительский элемент "схлопнулся". Что-бы это исправить добавим элемент div с классом .clear в самый конец контейнера .parent. И придадим
 классу .clear свойство clear со значением both. В результате получим правильное отображение.
-  https://gist.github.com/UnleashedMySelf/365e8aa3237557e1c2e2529d8763c5fe
-  https://codepen.io/UnleashedMySelf/pen/JpNNpe
+  https://gist.github.com/UnleashedMySelf/95b536f6a30560999698e49b85a5f3f2
+  https://codepen.io/UnleashedMySelf/pen/MQOKPZ
   
   3. Что-бы построить сетку блоков мы можем использовать свойство float со значением left для касса .rows. Так-же добавим элемент div с 
 классом .clear в самый конец контейнера .parent и придадим классу .clear свойство clear со значением both как и во втором задании. Так у 
