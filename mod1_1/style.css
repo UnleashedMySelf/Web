@@ -1,0 +1,35 @@
+.c_big {
+    width: 200px;
+    height: 200px;
+    background: red;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    margin: 300px auto;
+}
+
+.c_small {
+    width: 100px;
+    height: 100px;
+    background: green;
+    -moz-border-radius: 100px;
+    -webkit-border-radius: 100px;
+    border-radius: 100px;
+    margin: auto;
+    top: 50px;
+    position: relative;
+}
+
+.mini-square {
+	height: 100px;
+	width: 100px;
+	position: absolute;
+	left: 1000px;
+	top: 50px;
+	background: red;
+	opacity: 0;
+}
+
+.c_big:hover .mini-square {
+    opacity: 1;
+}
