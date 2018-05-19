@@ -122,9 +122,9 @@ button{
 }
 
 button:hover{
-  background: green;
+  background: blue;
 }
 
 button:active{
-  background: red;
+  background: white;
 }
