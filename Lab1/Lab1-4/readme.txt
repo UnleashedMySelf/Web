@@ -1,0 +1,3 @@
+https://rawgit.com/UnleashedMySelf/Web/master/Lab1/Lab1-3/index.htmlhttps://rawgit.com/UnleashedMySelf/Web/master/Lab1/Lab1-4/index.html
+
+В задании не было никакой конкретики, по-этому я сделаю самым простым образом без запарки при помощи блоков и бг для них. Создаем документ формата .html в программе SublimeText. С помощью shortcut "!" создаем шаблон html и подключаем к нему css. В нем создаем блочные элементы div с классами (либо id) fullwrap, header, wrap, main, sidebar, footer. На этом работу с документом *.html мы закончили, переходим к css. Для каждого класса создаем свойства и атрибуты.
